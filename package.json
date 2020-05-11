@@ -11,22 +11,22 @@
   },
   "devDependencies": {
     "bootstrap-sass": "^3.4.1",
-    "cross-env": "^5.2.1",
+    "cross-env": "^7.0.2",
     "jquery": "^3.5.1",
-    "laravel-mix": "^1.7.2",
+    "laravel-mix": "^5.0.4",
     "lodash": "^4.17.15",
     "node-sass": "^4.14.1",
     "vue-hot-reload-api": "^2.3.4",
     "vue-html-loader": "^1.2.4",
-    "vue-loader": "^13.7.3",
-    "vue-style-loader": "^3.1.2",
+    "vue-loader": "^15.9.2",
+    "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.11",
-    "webpack": "^3.12.0",
-    "webpack-dev-server": "^2.11.5"
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.2",
     "vue": "^2.6.11",
-    "vuex": "^2.4.1"
+    "vuex": "^3.3.0"
   }
 }

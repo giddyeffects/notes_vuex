@@ -348,7 +348,7 @@ var actions = {
         var e = _ref4.e,
             id = _ref4.id,
             fav = _ref4.fav;
-
+        //@TODO try passing whole activeNote object again..it has refused :)
         if (id) {
             var update = {
                 text: e.target.value,
